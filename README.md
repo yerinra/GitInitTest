@@ -5,6 +5,6 @@
 - Branch
 - Conflict 해결 방법 + Merge
 
-<code>
-  <div>hello world!</div>
-</code>
+```html
+<title>VS Code에서 깃 사용!</title>
+```
